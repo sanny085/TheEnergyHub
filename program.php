@@ -6,6 +6,7 @@ $msg="";
         if(isset($_POST['submit']))
 
     {
+          
         $Fname=$_POST['Fname'];
         $Lname=$_POST['Lname'];
         $Phone=$_POST['Phone'];
