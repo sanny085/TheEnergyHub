@@ -17,24 +17,18 @@
  <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-
 <style>
-
-
 #footer{
   margin:15px 0px 0px 0px;
 }
 #footer1{
       margin:0px 0px 50px 0px;
       }
-
 div#SLIDE_BG {
-
-    height: 20vh;
-    width:100%;
-     margin:0px;
+ height: 20vh;
+ width:100%;
+ margin:0px;
 }
-
  /*Forget password background*/
  @media screen and (min-width: 720px) {
    div#forget341 {
@@ -52,9 +46,7 @@ div#SLIDE_BG {
     padding-bottom:8px;
    }
  }
-
-
- /*Forget password*/
+/*Forget password*/
  @media screen and (min-width: 720px) {
    h4#forget {
     font-size:22px ;
@@ -67,10 +59,9 @@ div#SLIDE_BG {
    h4#forget {
   font-size:19px;
   color:#2ecc72;
-}
  }
-
- /*Forget1 password*/
+ }
+/*Forget1 password*/
  @media screen and (min-width: 720px) {
    h4#forget1 {
     font-size:19px ;
@@ -82,10 +73,8 @@ div#SLIDE_BG {
  @media screen and (max-width: 721px) {
    h4#forget1 {
   font-size:16px; color:#616C6F;
-}
  }
-
-
+}
 /*date styling*/
 /*Forget password*/
 @media screen and (min-width: 720px) {
@@ -95,8 +84,7 @@ div#SLIDE_BG {
        text-overflow: clip;
        white-space: nowrap;
       font-weight:bold;
-
-  }
+ }
 }
 
 @media screen and (max-width: 721px) {
@@ -106,7 +94,6 @@ div#SLIDE_BG {
        text-overflow: clip;
        white-space: nowrap;
        font-weight:bold;
-
   }
 }
 
