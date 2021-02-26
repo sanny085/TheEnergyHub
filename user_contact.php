@@ -1,6 +1,5 @@
  <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <title>TheEnergyHub</title>
   <meta charset="UTF-8">
@@ -17,9 +16,7 @@
  <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-
 <style>
-
 #footer{
   margin:15px 0px 0px 0px;
 }
@@ -34,7 +31,6 @@
     width:100%;
      margin:0px;
 }
-
  /*Forget password background*/
  @media screen and (min-width: 720px) {
    div#forget231 {
@@ -43,7 +39,6 @@
      padding-bottom:12px;
    }
  }
-
  @media screen and (max-width:721px) {
    div#forget231 {
      margin-top: -45px;
@@ -52,9 +47,7 @@
     padding-bottom:8px;
    }
  }
-
-
- /*Forget password*/
+/*Forget password*/
  @media screen and (min-width: 720px) {
    h4#forget {
     font-size:22px ;
@@ -256,15 +249,8 @@
               <i class="material-icons" style="font-size:22px;color:red;">email</i>
               <span class="text-light"   style="font-size:18px;" >&nbsp theeneryhub02@gmail.com</span>
             </p>
-
-
-
     </div>
-
-
-
-
-    </div>
+  </div>
 </div>
 
 <center><span class="text-info">Copyright ©2019 All rights reserved  <br> | This  is made by sannykumar085@gmail.com |</span>
