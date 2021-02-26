@@ -37,11 +37,8 @@ if(isset($_POST['submit']))
           else
               {
                  $msg2="*Fill up the form";
-
-
-              }
-
-         }
+             }
+     }
 }
 else{
     $msg2="*Fill up the form";
@@ -107,17 +104,14 @@ div#fsk:hover {background-color:#DAE0E2;}
 
 @media screen and (min-width: 720px) {
   div#SLIDE_BG {
-
-     background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/bg13.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/bg13.jpg');
     height: 88vh;
     width:100%;
     background-repeat:no-repeat;
     backface-visibility: hidden;
-
     background-size:cover;
     background-position:center center;
-
-  margin:0px;
+    margin:0px;
   }
 }
 
@@ -128,7 +122,6 @@ div#fsk:hover {background-color:#DAE0E2;}
     width:100%;
     background-repeat:no-repeat;
     backface-visibility: hidden;
-
     background-size:cover;
     background-position:center center;
 
@@ -197,15 +190,13 @@ padding:0px;
 @media screen and (min-width: 720px) {
   h3#welcome_log {
     font-size: 27px;
-
-  }
+   }
 }
 
 @media screen and (max-width: 721px) {
   h3#welcome_log{
   font-size:19px;
-
-  }
+ }
 }
 
 /*Welcoe login*/
