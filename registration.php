@@ -3,8 +3,7 @@ $msg1="";
 $msg2="";
 $msg3="";
 $wel="";
-
- if(isset($_POST['submit']))
+if(isset($_POST['submit']))
       {
       $Fname=$_POST['fname'];
       $Lname=$_POST['lname'];
@@ -79,10 +78,7 @@ else{
   color:#FAC42F;
   text-shadow: -1px  -1px 0 #2F363F;
 }
-
-
-
- #marg{
+#marg{
   margin:10px;
 }
 #sign{
@@ -92,15 +88,9 @@ else{
   margin:15px 0px 0px 0px;
 }
 
-
-
-
-
-
-      #footer1{
-      margin:0px 0px 50px 0px;
-      }
-
+#footer1{
+    margin:0px 0px 50px 0px;
+   }
 div#fsk:hover {background-color:#DAE0E2;}
 #join1 {
   background-color: #f52f07;
@@ -145,9 +135,6 @@ div#fsk:hover {background-color:#DAE0E2;}
   margin:0px;
   }
 }
-
-
-
 @media screen and (min-width: 720px) {
   div#body1 {
     font-size:70px;
