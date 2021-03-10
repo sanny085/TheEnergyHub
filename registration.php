@@ -236,9 +236,7 @@ font-weight: 200;
 
   <div id="SLIDE_BG" class="img-fluid d-block mx-auto">
 
-
-
-    <nav class="navbar  navbar-expand-md navbar-dark  " style="padding:2px;background-color:#47535E;"  >
+<nav class="navbar  navbar-expand-md navbar-dark  " style="padding:2px;background-color:#47535E;"  >
 
           <a class="navbar-brand text-light" href="#" style="font-family:'Fugaz One'; font-size:35px;padding:15px"><span class="text-info">The</span><span class="text-light">Energy</span><span class="text-warning">Hub</span></a>
 
@@ -246,9 +244,8 @@ font-weight: 200;
                 <span class="navbar-toggler-icon  "></span>
               </button>
 
-    </nav>
-
-          <nav  id="navbar" class="navbar   navbar-expand-md navbar-dark sticky-top "  style="padding:0px;background-color:#EAF0F1">
+</nav>
+<nav  id="navbar" class="navbar   navbar-expand-md navbar-dark sticky-top "  style="padding:0px;background-color:#EAF0F1">
               <div class="collapse navbar-collapse" id="fsk" >
                 <span class="mr-auto"></span>
 
@@ -265,8 +262,6 @@ font-weight: 200;
                         <li class="nav-item">
                           <a href="program.php" class="nav-link" id="nav21" >PROGRAM</a>
                         </li>
-
-
 
                         <li class="nav-item">
                           <a href="schedule.php" class="nav-link" id="nav21" >SCHEDULE</a>
@@ -290,7 +285,7 @@ font-weight: 200;
                     </div>
 
 
-              </nav>
+ </nav>
               <div class="modal fade" id="md1"  >
                   <div class="modal-dialog">
                        <div class="modal-content" style="background-color: transparent;border-radius: 20px 20px 20px 20px;">
@@ -448,11 +443,6 @@ font-weight: 200;
                       </span>
                   </div>
                </div>
-
-
-
-
-
 
 
 
