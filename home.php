@@ -1,5 +1,4 @@
-
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>TheEnergyHub</title>
@@ -35,7 +34,6 @@
   background-position:center center;
   margin:0px;
 }
-
 
 @keyframes slideBg
 {
