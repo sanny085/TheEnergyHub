@@ -17,7 +17,12 @@
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Fugaz+One" rel="stylesheet">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
-    <!--bootstrap 4-->
+	
+
+<!--animate  css-->
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+	
+<!--bootstrap 4-->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 
@@ -337,7 +342,7 @@ h5{
                  </div>
 
 
-<div class="container text-center">
+<div class="container text-center animated fadeInDown fast">
       <div id="body12"><center><p class="text-center"  style="font-family: 'Rubik Mono One' ;color:white ;letter-spacing:-3px;"><i>CHALLENGE <span class="text-warning">YOURSELF</span></i></p></center></div>
   </div>
 
