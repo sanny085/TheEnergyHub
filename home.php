@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>TheEnergyHub</title>
+   <title>TheEnergyHub</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -39,7 +39,6 @@
   background-position:center center;
   margin:0px;
 }
-
 @keyframes slideBg
 {
   0%{
@@ -55,7 +54,6 @@
                 background-image: url('images/bg1.jpg');
               }
 }
-
 #nav21,#nav22,#nav23,#nav24,#nav25,#nav26,#nav27{
   font-size:18px;
   font-weight:bold;
@@ -66,7 +64,6 @@
   color:#FAC42F;
   text-shadow: -1px  -1px 0 #2F363F;
 }
-
 #sign{
   margin:10px ;
 }
@@ -78,8 +75,6 @@
 {
 margin:0px 0px 30px 0px;
 }
-
-
 #body3{
 padding:30px 0px;
 }
