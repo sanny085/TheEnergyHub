@@ -10,7 +10,7 @@
 <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Bangers|Monda|Permanent+Marker&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Francois+One&display=swap" rel="stylesheet">
- <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Cinzel|Maven+Pro|Monda|Orbitron|Rubik|Mono+One|Russo+One&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Maven+Pro|Rubik|Mono+One&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Rubik+Mono+One&display=swap" rel="stylesheet">
@@ -18,13 +18,11 @@
 <link href="https://fonts.googleapis.com/css?family=Fugaz+One" rel="stylesheet">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
 	
-
 <!--animate  css-->
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 	
 <!--bootstrap 4-->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-
 
 <style>
 #SLIDE_BG{
@@ -49,10 +47,10 @@
       }
     50%{
         background-image: url('images/bg2.jpg');
-      }
-          75%{
-                background-image: url('images/bg1.jpg');
-              }
+       }
+    75%{
+        background-image: url('images/bg1.jpg');
+       }
 }
 #nav21,#nav22,#nav23,#nav24,#nav25,#nav26,#nav27{
   font-size:18px;
@@ -70,7 +68,6 @@
 #footer{
   margin:0px 0px 0px 0px;
 }
-
 #footer1,#footer2,#footer3
 {
 margin:0px 0px 30px 0px;
@@ -83,9 +80,7 @@ padding:30px 0px;
 }
 div#fsk:hover {
      background-color:#DAE0E2;
-   }
-
-
+}
 #car022,#car023,#car024,#car025,#car026,#car027,#car028,#car029,#car030,#car031,#car032,#car033{
   max-width:100%;
   margin:15px 0px;
@@ -93,16 +88,13 @@ div#fsk:hover {
 #join:hover{
   background-color: #f52f07;
 }
-
 #join2 {
   background-color: #f52f07;
 }
-
 .sticky{
   position: fixed;
   top: 0;
   width: 100%;
-
 }
 
 @media screen and (min-width: 720px) {
@@ -116,7 +108,6 @@ div#fsk:hover {
   div#body12{
     font-size:46px;
      padding:150px 0px  0px 0px;
-
   }
 }
 
@@ -136,7 +127,6 @@ padding:50px 5px;
 }
 
 #Sign_in{
-
   font-size: 18px;
   font-family:Oswald;
   padding:10px 0px;
@@ -146,14 +136,12 @@ padding:50px 5px;
 @media screen and (min-width: 720px) {
   h3#welcome_log {
     font-size: 27px;
-
   }
 }
 
 @media screen and (max-width: 721px) {
   h3#welcome_log{
   font-size:19px;
-
   }
 }
 
@@ -168,8 +156,6 @@ padding:50px 5px;
   font-size:55px;
   color:#ffffff;
 }
-
-
 .stat-items h2{
   font-size:38px;
   font-weight:bold;
