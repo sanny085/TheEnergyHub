@@ -2,8 +2,6 @@
 $msg1="";
 $msg2="";
 $msg3="";
-
-
  if(isset($_POST['submit']))
       {
       $Email=$_POST['email'];
@@ -26,7 +24,6 @@ $msg3="";
           if($exec )
             {
               $msg1="Your new password has been successfully Updated!";
-
 
             }
           else
