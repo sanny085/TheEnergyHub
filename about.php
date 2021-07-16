@@ -7,7 +7,6 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="icon" type="image/gif" href="https://cdn2.iconfinder.com/data/icons/health-exercise/64/1-512.png">
 
-
 <link href="https://fonts.googleapis.com/css?family=Monda&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Bangers|Monda|Permanent+Marker&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Archivo+Black|Russo+One&display=swap" rel="stylesheet">
@@ -32,8 +31,6 @@
   height: 100vh;
   width:100%;
   background-repeat:no-repeat;
-
-
   background-size:cover;
   background-position:center center;
   margin:0px;
@@ -98,20 +95,17 @@ div#fsk:hover {background-color:#DAE0E2;}
   }
 }
 
-
 @media screen and (min-width: 720px)
 {
   div#body23 {
 font-size:25px;
 padding:5px  ;
-
-  }
+ }
 }
 
 @media screen and (max-width: 721px)
 {
   div#body23{
-
    font-size:20px;
 padding:12px 0px;
   }
